@@ -1,0 +1,49 @@
+body {
+    height: 100vw;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.game {
+    max-width: 320px;
+    max-height: 568px;
+    background-color: blue;
+    margin:  30px auto  0px auto;
+}
+
+canvas {
+    background-image: url(Ninja/game_bg.jpg);
+}
+
+@media (max-width: 769px) {
+
+    body {
+        display: block;
+    }
+
+    .game {
+        margin-top: 0;
+        max-height: 100%!important;
+        max-width: 100%!important;
+    }
+
+     canvas{
+        max-height: 100%!important;
+        max-width: 100%!important;
+    }
+}
+
+@media (max-height: 568px) {
+
+    .game {
+        margin-top: 0;
+    }
+
+    canvas{
+        max-height: 100%!important;
+        max-width: 100%!important;
+    }
+}
+
