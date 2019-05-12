@@ -7,13 +7,7 @@ you need to enter a command in your terminal:
 
 # npm install
 
-After that you have 2 ways to open this game:
-
-1)
-# Dbl Click on index.html
-
-2) 
-you need to enter a command in your terminal:
+then you need to enter a command in your terminal:
 
 # node server.js
 
