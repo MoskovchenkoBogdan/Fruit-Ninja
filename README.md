@@ -3,7 +3,7 @@ Just a mini demo game
 
 To play this game you need to download all files of the game from GitHub
 
-you need to enter a command in your terminal:
+enter a command in your terminal:
 
 # npm install
 
