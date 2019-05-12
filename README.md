@@ -5,7 +5,8 @@ To play this game you need to download all files of the game from GitHub
 
 After that you have 2 ways to open this game:
 
-1) Dbl Click on index.html
+1)
+# Dbl Click on index.html
 
 2) you need to enter a command in your terminal:
 
@@ -13,4 +14,4 @@ After that you have 2 ways to open this game:
 
 after that open your browser and type:
 
-#http://localhost:3000/
+# http://localhost:3000/
